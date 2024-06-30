@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **manmeets1100@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you can find me at the gym 💪**
+- ⚡ **When I'm not coding, you can find me at the gym 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
