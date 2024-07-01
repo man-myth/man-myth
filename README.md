@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LakbayWika Portal: Linguistic Library Mapper](https://github.com/BSCS-4-Dev-Team/Lakbay-Wika)
 
-- 🌱 I’m currently learning **Docker, AWS, Redis**
+- 🌱 I’m currently learning **Docker, AWS, Redis, Tall Stack**
 
 - 👨‍💻 All of my projects are available at [https://man-myth.github.io/](https://man-myth.github.io/)
 
