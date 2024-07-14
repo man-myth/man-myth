@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manmeets1100" target="blank"><img src="https://img.shields.io/twitter/follow/manmeets1100?logo=twitter&style=for-the-badge" alt="manmeets1100" /></a> </p>
 
-- 🔭 I’m currently working on [LakbayWika Portal: Linguistic Library Mapper](https://github.com/BSCS-4-Dev-Team/Lakbay-Wika)
+- 🔭 I’m currently working on [LaraShop: eCommerce using larvel](https://github.com/man-myth/e-commerce-laravel)
 
 - 🌱 I’m currently learning **TALL Stack**
 
